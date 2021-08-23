@@ -12,15 +12,15 @@ I am an assistant professor in the Computer Science and Engineering department a
 
 Research Interests
 ====
-Affective Computing
-Biometrics
-Machine Learning
-Multimodal Signal Processing 
-Human-computer Interaction
+Affective Computing  
+Biometrics  
+Machine Learning  
+Multimodal Signal Processing  
+Human-computer Interaction  
 
 Research Application Areas of Interest
 ====
-Medicine & Health
-Security
-Entertainment
-Education
+Medicine & Health  
+Security  
+Entertainment  
+Education  
