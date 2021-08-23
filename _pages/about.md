@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaun Canavan, PhD
+title: "Shaun Canavan, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
