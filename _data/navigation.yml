@@ -14,3 +14,4 @@ main:
   
   - title: "CV"
     url: /files/CanavanCV_Full.pdf
+    target: "_blank"
