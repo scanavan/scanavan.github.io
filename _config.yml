@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shaun Canavan, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor, Computer Science & Engineering"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "http://www.usf.edu"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F67ykzGr_hY33mOEoMQPjtpSIuUVsNrvD0tedddK_K02c5HpQhI_B_IWa61NMsucCc9PvNPuym5NbZchQ3hpTodOnLgSYZ80Vsm8m4VVPifQD_FgYU&user=zayQB-oAAAAJ"
+  email            : "scanavan@usf.edu"
+  researchgate     : "https://www.researchgate.net/profile/Shaun-Canavan-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/scanavan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/shaun-canavan-bb324ab/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1538-476X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@scanavanUSF"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCWnwWP1t-6oMwBIuEhV7-nA"
   wikipedia        :
 
 
