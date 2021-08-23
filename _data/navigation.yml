@@ -1,16 +1,18 @@
 # main links links
 main:
+  - title: "Research"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Sponsors"
+    url: /sponsors/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Research"
-    url: /portfolio/
+
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -18,5 +20,5 @@ main:
   - title: "CV"
     url: /files/Canavan_Full.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
