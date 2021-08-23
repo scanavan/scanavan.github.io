@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -11,14 +11,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+  
   - title: "CV"
     url: /files/CanavanCV_Full.pdf
-    
-  #- title: "Guide"
-  #  url: /markdown/
