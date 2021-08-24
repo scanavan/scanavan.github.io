@@ -6,6 +6,9 @@ main:
   - title: "Publications (Google Scholar)"
     url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F67ykzGr_hY33mOEoMQPjtpSIuUVsNrvD0tedddK_K02c5HpQhI_B_IWa61NMsucCc9PvNPuym5NbZchQ3hpTodOnLgSYZ80Vsm8m4VVPifQD_FgYU&user=zayQB-oAAAAJ
 
+  - title: "News"
+    url: /news/
+     
   - title: "Teaching"
     url: /teaching/    
   
