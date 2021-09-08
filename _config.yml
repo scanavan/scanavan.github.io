@@ -181,7 +181,7 @@ collections:
   biometrics:
     output: true
     permalink: /:collection/:path/
-  expression:
+  affective:
     output: true
     permalink: /:collection/:path/
   hci:
@@ -241,6 +241,15 @@ defaults:
   - scope:
       path: ""
       type: biometrics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #_affective
+  - scope:
+      path: ""
+      type: affective
     values:
       layout: single
       author_profile: true

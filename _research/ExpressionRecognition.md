@@ -1,9 +1,9 @@
 ---
-title: "Expression Recognition"
-excerpt: "Research into expression recognition."
-collection: research
+title: "Affective Computing"
+excerpt: "Research into expression and emotion recognition."
+collection: affective
 type: "Research"
-permalink: /expressions/ExpressionRecognitionAcrossAge
+permalink: /affective/ExpressionRecognitionAcrossAge
 venue: "University of South Florida"
 location: "Tampa, Florida"
 ---
