@@ -1,9 +1,9 @@
 ---
 title: "Continuous Authentication"
-#excerpt: "Research into age-aware continuous authentication. This work is supported by the NSF."
+excerpt: "Research into age-aware continuous authentication. This work is supported by the NSF."
 collection: biometrics
-#venue: "University of South Florida"
-#location: "Tampa, Florida"
+venue: "University of South Florida"
+location: "Tampa, Florida"
 ---
 
 This work is supported by [NSF grant (2039373)](https://nsf.gov/awardsearch/showAward?AWD_ID=2039373&HistoricalAwards=false) with an award date of 4/01/2021-3/31-2023. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. Broader impacts include age-appropriate security and privacy, interdisciplinary undergraduate and graduate research, knowledge dissemination, and outreach and inclusion towards underrepresented groups in computing.
