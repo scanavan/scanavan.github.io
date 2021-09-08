@@ -246,6 +246,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  #_hci
+  - scope:
+      path: ""
+      type: hci
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   #_affective
   - scope:
       path: ""

@@ -1,7 +1,7 @@
 ---
 title: "Human-computer Interaction"
 excerpt: "HCI Research."
-collection: research
+collection: hci
 type: "Research"
 permalink: /hci/GestureRecognition
 venue: "University of South Florida"
