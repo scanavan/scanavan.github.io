@@ -1,8 +1,7 @@
 ---
-title: "Biometrics"
-excerpt: "Research into subject identification and age-aware continuous user authentication."
-collection: research
-permalink: /research/Biometrics
+title: "Continuous Authentication"
+excerpt: "Research into age-aware continuous authentication. This work is supported by the NSF."
+collection: biometrics
 venue: "University of South Florida"
 location: "Tampa, Florida"
 ---
