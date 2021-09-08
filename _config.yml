@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   biometrics:
-    output: false
+    output: true
     permalink: /:collection/:path/
   affective:
     output: true
@@ -239,7 +239,7 @@ defaults:
       comments: true
   #_biometrics
   - scope:
-      path: ""
+      path: "biometrics"
       type: biometrics
     values:
       layout: single
