@@ -178,6 +178,15 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  biometrics:
+    output: true
+    permalink: /:collection/:path/
+  expression:
+    output: true
+    permalink: /:collection/:path/
+  hci:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
