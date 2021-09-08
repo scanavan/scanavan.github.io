@@ -181,15 +181,13 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  news:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  sponsors:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
