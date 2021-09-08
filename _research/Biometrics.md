@@ -1,6 +1,6 @@
 ---
 title: "Biometrics"
-excerpt: "Research into subject identification and age-aware continuous user authentication"
+excerpt: "Research into subject identification and age-aware continuous user authentication."
 collection: research
 permalink: /research/Biometrics
 venue: "University of South Florida"
