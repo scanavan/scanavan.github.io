@@ -239,7 +239,7 @@ defaults:
       comments: true
   #_biometrics
   - scope:
-      path: "biometrics"
+      path: ""
       type: biometrics
     values:
       layout: single
