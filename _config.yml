@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   biometrics:
-    output: true
+    output: false
     permalink: /:collection/:path/
   affective:
     output: true
