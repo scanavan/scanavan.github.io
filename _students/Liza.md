@@ -1,6 +1,6 @@
 ---
 title: "Liza Jivnani"
-excerpt: "Undergraduate NSF REU"
+excerpt: "Undergraduate NSF REU investigating continuous authentication and group emotion recognition"
 collection: students
 type: "Undergraduate Student"
 #permalink: /students/Liza
