@@ -12,8 +12,9 @@ selected hand-crafted features. We assess the efficacy of our descriptors to cla
 Database for Autism Research dataset, using multiple classifiers including a random forest, C4.5 decision
 tree, PART, and a deep feedforward neural network.
 
-## Paper
-[Gaze-based Classification of Autism Spectrum Disorder](/files/ASD_PatternRecLetters2020.pdf)
+## Papers
+1. [Gaze-based Classification of Autism Spectrum Disorder](files/ASD_PatternRecLetters2020.pdf)
 
 ## Other Related Papers
-[Combining Gaze and Demographic Feature Descriptors for Autism Classification](files/ICIP_2017_Gaze.pdf)
+1. [Combining Gaze and Demographic Feature Descriptors for Autism Classification](files/ICIP_2017_Gaze.pdf)
+2. [Classification of Autism Spectrum Disorder Across Age using Questionnaire and Demographic Information](files/ASD_Rec_QuestionsICPRW2020.pdf)
