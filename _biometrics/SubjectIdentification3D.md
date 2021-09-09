@@ -1,5 +1,5 @@
 ---
-title: "3D Subject Identification"
+title: "3D Subject Identification Across Large Expression Variation"
 excerpt: "Subject identifcation using 3D facial landmarks."
 collection: biometrics
 venue: "University of South Florida"
