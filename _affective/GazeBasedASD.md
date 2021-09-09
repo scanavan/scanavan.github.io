@@ -11,3 +11,9 @@ based on eye gaze patterns. We also present an analysis of eye gaze patterns val
 selected hand-crafted features. We assess the efficacy of our descriptors to classify ASD on a National
 Database for Autism Research dataset, using multiple classifiers including a random forest, C4.5 decision
 tree, PART, and a deep feedforward neural network.
+
+## Paper
+[Gaze-based Classification of Autism Spectrum Disorder](/files/ASD_PatternRecLetters2020.pdf)
+
+## Other Related Papers
+[Combining Gaze and Demographic Feature Descriptors for Autism Classification](files/ICIP_2017_Gaze.pdf)
