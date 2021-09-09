@@ -13,8 +13,8 @@ Database for Autism Research dataset, using multiple classifiers including a ran
 tree, PART, and a deep feedforward neural network.
 
 ## Papers
-1. [Gaze-based Classification of Autism Spectrum Disorder](/files/ASD_PatternRecLetters2020.pdf)
-2. [Combining Gaze and Demographic Feature Descriptors for Autism Classification](/files/ICIP_2017_Gaze.pdf)
+1. [D. Fabiano, S. Canavan, H. Agazzi, S. Hinduja, and D. Goldgof, Pattern Recognition Letters, 135, pp. 204-212, 2020. Gaze-based Classification of Autism Spectrum Disorder](/files/ASD_PatternRecLetters2020.pdf)
+2. [S. Canavan, M. Chen, S. Chen, R. Valdez, M. Yaeger, H. Lin, and L. Yi, ICIP, 2017. Combining Gaze and Demographic Feature Descriptors for Autism Classification](/files/ICIP_2017_Gaze.pdf)
 
 ## Other Related Papers
-1. [Classification of Autism Spectrum Disorder Across Age using Questionnaire and Demographic Information](/files/ASD_Rec_QuestionsICPRW2020.pdf)
+1. [Sk R. Jannat and S. Canavan, ICPRW, 2021. Classification of Autism Spectrum Disorder Across Age using Questionnaire and Demographic Information](/files/ASD_Rec_QuestionsICPRW2020.pdf)
