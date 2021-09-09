@@ -1,6 +1,6 @@
 ---
 title: "Md Taufeeq Uddin"
-excerpt: "PhD student investigation quantified affect analysis, with medical applications."
+excerpt: "PhD student investigating quantified affect analysis, with medical applications."
 collection: students
 type: "PhD Student"
 #permalink: /students/Taufeeq
