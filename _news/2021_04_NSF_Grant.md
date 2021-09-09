@@ -1,6 +1,6 @@
 ---
 title: "NSF Grant Awarded"
-excerpt: "NSF grant (2039373)"
+excerpt: "2-year collaborative grant from NSF awarded (2039373). This award will investigate age-aware continuous authentication. More details can be found under [Continuous Authentication](/biometrics/ContinuousAuthentication"
 collection: news
 type: "News"
 link: https://nsf.gov/awardsearch/showAward?AWD_ID=2039373&HistoricalAwards=false
