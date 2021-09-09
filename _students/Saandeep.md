@@ -1,5 +1,5 @@
 ---
-title: "Saandeep"
+title: "Saandeep Aathreya"
 excerpt: "PhD student investigating latent space representations of emotion."
 collection: students
 type: "students"
