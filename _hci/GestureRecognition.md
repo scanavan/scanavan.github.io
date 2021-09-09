@@ -16,8 +16,8 @@ view, for gesture recognition. To test the efficacy of our proposed approach, we
 sign language
 
 ## Papers
-1. [J. Schioppo, Z. Meyer, D. Fabiano, and S. Canavan, CHI LBW, 2019. Sign Language Recognition: Learning American Sign Language in a Virtual Environment](/files/CHI_Late_Breaking_2019.pdf)
-2. [J. Schioppo, Z. Meyer, D. Fabiano, and S. Canavan, FG, 2020. Sign Language Recognition in Virtual Reality](/files/FG2020_VR_ASL_Deom.pdf)
+1. [J. Schioppo, Z. Meyer, D. Fabiano, and S. Canavan. Sign Language Recognition: Learning American Sign Language in a Virtual Environment, CHI LBW, 2019.](/files/CHI_Late_Breaking_2019.pdf)
+2. [J. Schioppo, Z. Meyer, D. Fabiano, and S. Canavan. Sign Language Recognition in Virtual Reality, FG, 2020.](/files/FG2020_VR_ASL_Deom.pdf)
 
 ## Videos
 1. [Sign Language Recognition in Virtual Reality Demo](https://www.youtube.com/watch?v=tYG606iDfGs)
