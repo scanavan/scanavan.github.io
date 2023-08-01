@@ -1,7 +1,7 @@
 ---
 title: "USF CA Dataset"
 excerpt: "Videos and physiological signals."
-collection: datasets
+collection: biometrics
 type: "Datasets"
 link: /biometrics/usf_ca/
 venue: "University of South Florida"
