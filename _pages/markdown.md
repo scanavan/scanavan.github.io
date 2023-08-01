@@ -17,6 +17,7 @@ redirect_from:
   * _research/
   * _sponsors_/
   * _teaching/
+  * _datasets/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/Canavan.png
