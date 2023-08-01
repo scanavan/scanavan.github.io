@@ -50,6 +50,8 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% elsif post.collection == 'hci' |%}
           <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
+        {% elsif post.collection == 'datasets' |%}
+          <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% elsif post.collection == 'news' |%}
           <p> {{ post.type }}, <i>{{ post.venue }}</i> </p>
         {% elsif post.collection == 'publications' %}
