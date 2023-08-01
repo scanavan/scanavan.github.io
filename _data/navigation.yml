@@ -4,7 +4,7 @@ main:
     url: /students/
     
   - title: "Datasets"
-    url: /datasets
+    url: /datasets/
 
   - title: "Research"
     url: /research/
