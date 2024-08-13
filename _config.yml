@@ -255,6 +255,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  #_asd
+  - scope:
+      path: ""
+      type: asd
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   #_biometrics
   - scope:
       path: ""
