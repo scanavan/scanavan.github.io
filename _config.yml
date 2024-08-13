@@ -187,6 +187,9 @@ collections:
   biometrics:
     output: true
     permalink: /:collection/:path/
+  asd:
+    output: true
+    permalink: /:collection/:path/
   affective:
     output: true
     permalink: /:collection/:path/
