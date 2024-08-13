@@ -1,6 +1,6 @@
 ---
 title: "Tara Nourivandi"
-excerpt: "New PhD student, Fall 2021."
+excerpt: "PhD student investigating impact of culture on Affect"
 collection: students
 type: "PhD Student"
 link: https://www.linkedin.com/in/tara-nourivandi-33914b100/#
