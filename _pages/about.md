@@ -15,8 +15,7 @@ Research Interests
 Affective Computing  
 Biometrics  
 Machine Learning  
-Multimodal Signal Processing  
-Human-computer Interaction  
+Context-bsaed Multimodal Human Behavior Analysis  
 
 Research Application Areas of Interest
 ====
