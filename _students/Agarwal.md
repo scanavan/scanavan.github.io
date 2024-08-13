@@ -1,5 +1,5 @@
 ---
-title: "Rupal Agarwal
+title: "Rupal Agarwal"
 excerpt: "PhD student investigating ASD screening in children."
 collection: students
 type: "PhD Student"

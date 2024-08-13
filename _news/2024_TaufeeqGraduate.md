@@ -1,6 +1,6 @@
 ---
 title: "Md Taufeeq Graduates"
-excerpt: "Dr. Taufeeq Uddin graduated with his PhD in Spring 2024. He is now conducting research at Meta.
+excerpt: "Dr. Taufeeq Uddin graduated with his PhD in Spring 2024. He is now conducting research at Meta."6
 collection: news
 type: "News"
 link: https://www.linkedin.com/in/mdtaufeeq/
